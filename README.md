@@ -1,2 +1,2 @@
 # FirstJavaEE
-javaee-lesson2
+javaee-lesson1
